@@ -1,0 +1,21 @@
+:host {
+  display: flex;
+  background-color: #1976d2;
+  align-items: center;
+}
+
+.pg-banner-image {
+  flex: 0 0 auto;
+  width: 32px;
+}
+
+.pg-main-nav {
+  flex: 1 1 auto;
+  padding: 0 32px;
+}
+
+.pg-nav-item {
+  padding: 0 16px;
+  color: white;
+  font-weight: 700;
+}
